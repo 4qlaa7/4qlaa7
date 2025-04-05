@@ -50,7 +50,7 @@ Here's your expanded **Skills & Tools** section with  frameworks, libraries, pro
 ## 📈 GitHub Stats
 
 ![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=4qlaa7&show_icons=true&theme=radical)
-![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=4qlaa7&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 
