@@ -50,6 +50,7 @@ Here's your expanded **Skills & Tools** section with  frameworks, libraries, pro
 ## 📈 GitHub Stats
 
 ![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=4qlaa7&show_icons=true&theme=radical)
+![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 
@@ -59,9 +60,7 @@ Here's your expanded **Skills & Tools** section with  frameworks, libraries, pro
 
 ![Visitor Count](https://profile-counter.glitch.me/{4qlaa7}/count.svg)
 
-## 👥 Profile Watchers
 
-![GitHub watchers](https://img.shields.io/github/watchers/4qlaa7/GCF?style=flat)
 
 ## 📚 Research & Publications
 
