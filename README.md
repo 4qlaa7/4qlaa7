@@ -14,8 +14,6 @@ Welcome to my GitHub! I'm a passionate Machine Learning Engineer at **Aitech Com
 
 Here's your expanded **Skills & Tools** section with over 50 frameworks, libraries, programming languages, and tools:
 
-## 🛠️ Skills & Tools
-
 **Programming Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
