@@ -59,6 +59,10 @@ Here's your expanded **Skills & Tools** section with  frameworks, libraries, pro
 
 ![Visitor Count](https://profile-counter.glitch.me/{4qlaa7}/count.svg)
 
+## 👥 Profile Watchers
+
+![GitHub watchers](https://img.shields.io/github/watchers/4qlaa7/GCF?style=flat)
+
 ## 📚 Research & Publications
 
 Check out my research contributions and citations:
