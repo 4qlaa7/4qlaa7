@@ -144,3 +144,4 @@
 </picture>
 
 ###
+<img src="https://raw.githubusercontent.com/4qlaa7/4qlaa7/output/snake.svg" alt="Snake animation" />
