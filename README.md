@@ -33,7 +33,8 @@
   <a href="mbahaae24@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="90" height="70" alt="gmail logo"  />
   </a>
-  [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=byIbEkAAAAAJ&hl=en)
+  <a [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=byIbEkAAAAAJ&hl=en)>
+    </a>
 </div>
 
 ###
