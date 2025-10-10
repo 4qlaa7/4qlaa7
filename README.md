@@ -1,83 +1,145 @@
-# Hi there, I'm Muhammad Bahaa! 👋
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=true&text=Hi%20there,%20I'm%20Muhammad%20Bahaa!%20%F0%9F%91%8B&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
-Welcome to my GitHub! I'm a passionate Machine Learning Engineer at **Aitech Company**, dedicated to transforming innovative ideas into intelligent solutions. Despite being relatively new to GitHub, I'm eager to grow my presence and contribute actively. I thrive on exploring innovative technologies, always pushing myself to expand my skill set and deliver outstanding results.
+###
 
-## 🚀 About Me
+<h4 align="center">Welcome to my GitHub! I'm a passionate Machine Learning Engineer at Aitech Company, dedicated to transforming innovative ideas into intelligent solutions. Despite being relatively new to GitHub, I'm eager to grow my presence and contribute actively. I thrive on exploring innovative technologies, always pushing myself to expand my skill set and deliver outstanding results.</h4>
 
-- 🔥 Driven by curiosity and passionate about solving real-world problems with **Machine Learning**, **Deep Learning**, **Natural Language Processing (NLP)**, and **Computer Vision**.
-- 🌟 Enthusiastic learner, constantly exploring emerging AI frameworks like **LangChain**, **OpenAI APIs**, and modern AI agent-building tools.
-- 🚀 Excited to leverage AI to create intelligent, efficient, and impactful software solutions.
-- 💡 Always prioritizing clean, scalable, and maintainable code practices.
-- 🏅 Aiming for excellence and committed to achieving impactful milestones through collaborative teamwork and innovation.
+###
 
-## 🛠️ Skills & Tools
+<h2 align="center">🚀 About Me</h2>
 
-Here's your expanded **Skills & Tools** section with  frameworks, libraries, programming languages, and tools:
+###
 
-### 👨‍💻 Programming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<h5 align="left">- 🔥 Driven by curiosity and passionate about solving real-world problems with Machine Learning, Deep Learning, Natural Language Processing (NLP), and Computer Vision.<br>- 🌟 Enthusiastic learner, constantly exploring emerging AI frameworks like LangChain, OpenAI APIs, and modern AI agent-building tools.<br>- 🚀 Excited to leverage AI to create intelligent, efficient, and impactful software solutions.<br>- 💡 Always prioritizing clean, scalable, and maintainable code practices.<br>- 🏅 Aiming for excellence and committed to achieving impactful milestones through collaborative teamwork and innovation.</h5>
 
-### 🤖 Machine Learning & AI  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-1A7F37?style=flat&logo=xgboost&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-007ACC?style=flat&logo=chainlink&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+###
 
-### 📊 Data Analysis & Visualization  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+<h2 align="center">📫 Let's Connect</h2>
 
-### 🧠 Computer Vision & NLP  
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white) ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black) ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spaCy&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat&logo=python&logoColor=white)
+###
 
-### 🌐 Web Frameworks & APIs  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+<div align="center">
+  <a href="https://www.linkedin.com/in/muhammad-bahaa-40a7291bb/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="90" height="70" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/4qlaa7" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="90" height="70" alt="twitter logo"  />
+  </a>
+  <a href="4qlaa7" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="90" height="70" alt="discord logo"  />
+  </a>
+  <a href="mbahaae24@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="90" height="70" alt="gmail logo"  />
+  </a>
+  [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=byIbEkAAAAAJ&hl=en)
+</div>
 
-### ☁️ Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+###
 
-### 🧰 Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+<h2 align="center">🛠️ Skills & Tools</h2>
 
-### 🗄️ Databases & Storage  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+###
 
-### ⚙️ CI/CD & Automation  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat&logo=circleci&logoColor=white)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="35" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="35" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="35" alt="bitbucket logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="35" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="35" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="35" alt="latex logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="35" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="35" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/cmake/064F8C" height="35" alt="cmake logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="35" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="35" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="35" alt="opengl logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="35" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="35" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="35" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="35" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="35" alt="stackoverflow logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="35" alt="cloudflare logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="35" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=replit" height="35" alt="replit logo"  />
+</div>
 
-### 🧾 Others  
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+###
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=4qlaa7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=4qlaa7&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
+###
 
-## 📈 GitHub Stats
+<h2 align="center">👥 Profile Visitors</h2>
 
-![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=4qlaa7&show_icons=true&theme=vertival)
+###
 
-## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://count.getloli.com/@:4qlaa7?theme=yousa-ling&padding=6&scale=1&align=bottom&pixelated=0&darkmode=auto"  />
+</div>
 
-![Muhammad's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=4qlaa7&theme=onedark)
+###
 
-## 👥 Profile Visitors
+<h2 align="center">📈 GitHub Stats</h2>
 
-![Visitor Count](https://profile-counter.glitch.me/{4qlaa7}/count.svg)
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=4qlaa7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=4qlaa7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
+###
 
-## 📚 Research & Publications
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4qlaa7/4qlaa7/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4qlaa7/4qlaa7/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/4qlaa7/4qlaa7/output/pacman-contribution-graph.svg">
+</picture>
 
-Check out my research contributions and citations:
-
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=byIbEkAAAAAJ&hl=en)
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-bahaa-40a7291bb/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/4qlaa7)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mbahaae24@gmail.com)
-
-## 🎵 Now Playing
-
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=4qlaa7)
-
----
-
-> *“The only limit to our realization of tomorrow will be our doubts of today.” – Franklin D. Roosevelt*
-
+###
